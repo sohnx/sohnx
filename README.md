@@ -55,8 +55,8 @@
 
 > (Add links here once your repos are ready — don’t place 20 useless projects. Add only 3–4 polished ones.)
 
-- 🚀 **EduDub Backend** – API dev, audio processing pipeline  
-- Trip-Planner – A Money Splitting website with Real Time Currency Conversion and Integrated Payment Methods  
+- **EduDub Backend** – API dev, audio processing pipeline  
+- **Trip-Planner** – A Money Splitting website with Real Time Currency Conversion and Integrated Payment Methods  
 
 ---
 
