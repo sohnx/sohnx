@@ -77,8 +77,3 @@
 
 ### ⚡ Fun Fact  
 I debug faster when I'm sleep-deprived than when I'm well-rested. No idea why.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sohnx/sohnx/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
