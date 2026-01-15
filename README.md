@@ -17,8 +17,9 @@
 
 *I value clarity over hype, fundamentals over shortcuts, and consistency over motivation.*
 
-<br clear/>
+<br clear>
 
+<br>
 <br>
 
 ## 📌 Featured Work
@@ -81,6 +82,7 @@
 - Building **production-ready systems**
 - Preparing for **internship interviews**
 
+<br clear>
 <br>
 
 ## 🐍 Contribution Snake
