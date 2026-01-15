@@ -7,12 +7,12 @@
 
 ## 🚀 About Me
 
-<img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 - 🎓 B.Tech Computer Science Engineering student (2nd Year)
 - 💻 Focused on **Backend Development and Core Computer Science**
 - 🧠 Strong interest in **APIs, databases, and system-level thinking**
-- 🔭 Currently working on backend systems involving **REST APIs, audio processing etc.**
+- 🔭 Currently working on backend systems involving **REST APIs, Audio Processing etc.**
 - 🎯 Goal: **Secure a strong backend-focused internship**
 
 *I value clarity over hype, fundamentals over shortcuts, and consistency over motivation.*
