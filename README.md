@@ -96,8 +96,8 @@ I value clarity over hype, fundamentals over shortcuts, and consistency over mot
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sohan-chaudhuri-9a6092323/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Sohanc2005)
-[![Email](https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:sohanchaudhuri10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohan-chaudhuri-9a6092323/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sohanc2005)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohanchaudhuri10@gmail.com)
 
 </div>
